@@ -1,0 +1,15 @@
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\bin\Debug\RgstNumberDiGi.exe.config
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\bin\Debug\RgstNumberDiGi.exe
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\bin\Debug\RgstNumberDiGi.pdb
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\RgstNumberDiGi.csprojResolveAssemblyReference.cache
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\MainWindow.g.cs
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\App.g.cs
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\RgstNumberDiGi_MarkupCompile.cache
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\RgstNumberDiGi_MarkupCompile.lref
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\MainWindow.baml
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\RgstNumberDiGi.g.resources
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\RgstNumberDiGi.Properties.Resources.resources
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\RgstNumberDiGi.csproj.GenerateResource.Cache
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\RgstNumberDiGi.csproj.CoreCompileInputs.cache
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\RgstNumberDiGi.exe
+C:\Users\NaumovD\source\repos\RgstNumberDiGi\RgstNumberDiGi\obj\Debug\RgstNumberDiGi.pdb
